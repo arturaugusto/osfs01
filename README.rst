@@ -19,7 +19,8 @@ Here we go:
       $ cd osfs01
       $ make
 
-  Guess what? It's running!
+  Guess what? It's running! If only a black screen is shown, press c and enter on the console to cotinue the emulation.
+
 
   .. image:: http://osfromscratch.org/snapshots/original/%E5%9B%BE01.01%20%E6%9C%80%E5%B0%8F%E7%9A%84%E2%80%9C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E2%80%9D.png
 
