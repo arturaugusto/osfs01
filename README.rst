@@ -8,7 +8,7 @@ Let's begin with a simplest boot sector. You'll see how easy it is to get starte
 
 Here we go:
 
-+ Install nasm_ the assembly compiler and bochs_ the emulator
++ Install nasm_ the assembly compiler and bochs_ the emulator. On Ubuntu, you can install with ```sudo apt-get install nasm bochs bochs-x bochs-sdl```
 
 + Clone me (we're in GitHub, aren't we)::
 
